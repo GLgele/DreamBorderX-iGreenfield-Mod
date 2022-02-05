@@ -40,6 +40,10 @@ out
 # gradle
 build
 .gradle
+gradle/caches
+gradle/daemon
+gradle/native
+gradle/wrapper/dists
 
 # other
 eclipse
